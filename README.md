@@ -1,5 +1,7 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=HU-CODERS&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/HU-CODERS)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,html,css,go&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=next,tailwind&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,mongodb,wordpress,vercel,redis,nodejs,heroku,apache,nginx&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=HU-CODERS&data=followers,commits&theme=darkmode)](https://github.com/HU-CODERS)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=javascript,typescript,java,html,css,json,yaml,md&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,expressjs&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs,mongodb,vercel,vscode&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
