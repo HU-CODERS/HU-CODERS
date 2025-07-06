@@ -3,5 +3,5 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,expressjs&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs,mongodb,vercel,vscode&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs,mongodb,vercel&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&theme=darkmode&includeNames=true)](https://github.com/HU-CODERS)
